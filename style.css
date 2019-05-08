@@ -1,0 +1,39 @@
+#h1{
+
+	color: #cc0066;
+}
+
+#h2{
+
+	color:#6600cc; #1a1aff
+}
+
+h2{
+
+	color:green;
+}
+
+.cls3{
+
+	color:#0000b3;
+}
+#h4{
+
+	color:#660033;
+}
+
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
